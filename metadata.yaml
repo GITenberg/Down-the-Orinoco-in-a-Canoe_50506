@@ -1,4 +1,8 @@
 _repo: Down-the-Orinoco-in-a-Canoe_50506
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50506-h/images/cover.jpg
 creator:
   author:
     agent_name: Pérez Triana, Santiago
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '45945'
     url: http://www.gutenberg.org/2009/agents/45945
 description: 'Spanish original: De Bogotá al Atlántico'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50506#Down-the-Orinoco-in-a-Canoe
 gutenberg_issued: '2015-11-20'
 gutenberg_type: Text
 identifiers:
